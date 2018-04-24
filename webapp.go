@@ -56,7 +56,7 @@ func getUser(w http.ResponseWriter, r *http.Request){
 }
 
 func postAdduser(w http.ResponseWriter, r *http.Request){
-  //リスト表示
+  //ユーザー追加
 }
 
 func putRefresh(w http.ResponseWriter, r *http.Request){
